@@ -8,3 +8,4 @@ We can happily report it was the day's most succesful event, with cinema-tickets
 The final winner was brought home by his lucky 11, sought after for quite a few number-pulls before eventually finishing the event.
 
 A screenshot of the host-program is shown here:
+<img src="Bingo Host Program Screenshot.png">
